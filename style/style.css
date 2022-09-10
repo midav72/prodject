@@ -1,9 +1,5 @@
-* {
-   margin: 0;
-   padding: 0;
-   font-size: 16px;
-   font-weight: normal;
-   list-style: none;
+body {
+   font-family: 'Roboto', sans-serif;
 }
 
 .conteiner {
@@ -103,7 +99,7 @@
 
 .footer {
    background-color:#20003C;
-   padding: 58px 0;
+   padding: 58px 95px;
 }
 
 .footer__ul {
